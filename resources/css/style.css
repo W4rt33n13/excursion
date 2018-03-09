@@ -5,6 +5,9 @@ body{
 h1, h2, h3{
   text-align: center;
 }
+video, img{
+    text-align: center;
+}
 h1{
   color: white;
   font-weight: normal;
