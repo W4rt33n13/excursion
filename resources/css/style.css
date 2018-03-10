@@ -2,11 +2,8 @@ body{
   background-color: Black;
   font-family: Verdana;
 }
-h1, h2, h3{
+div{
   text-align: center;
-}
-video, img{
-    text-align: center;
 }
 h1{
   color: white;
